@@ -1,6 +1,5 @@
-import React from "react"
-import Article from "./Article"
-
+import React from 'react'
+import Article from './Article'
 
 const ArticleList = ({ posts }) => {
     return (
@@ -12,6 +11,6 @@ const ArticleList = ({ posts }) => {
             })}
         </main>
     )
-};
+}
 
 export default ArticleList
