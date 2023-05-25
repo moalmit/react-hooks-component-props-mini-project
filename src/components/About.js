@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 const About = ({ image, about }) => {
     return <div>
         <aside>
